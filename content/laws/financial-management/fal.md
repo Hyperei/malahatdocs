@@ -1,8 +1,8 @@
 ---
 title: "Financial Administration Law"
 description: "The Financial Administration Law is a set of governance and finance policies that helps Councils and staff make informed decisions. Malahat Nation lives by its FAL and is committed to good governance and financial practices. The policies and procedures set out in the FAL clarify expectations about our administrative responsibilities to Malahat Nation’s employees, members and other related persons;. A finance and Audit Committee has been established to make recommendations to Council on financial and investment decisions to promote positive financial outcomes."
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+date: 2021-03-15
+lastmod: 2021-03-15
 draft: false
 images: []
 menu:
