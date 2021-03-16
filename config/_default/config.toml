@@ -85,3 +85,4 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "node_modules/flexsearch"
     target = "assets/js/vendor/flexsearch"
+

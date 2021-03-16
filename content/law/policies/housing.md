@@ -1,26 +1,19 @@
 ---
 title: "Housing Policy"
-description: "Answers to frequently asked questions."
-lead: "Answers to frequently asked questions."
-date: 2020-10-06T08:49:31+00:00
-lastmod: 2020-10-06T08:49:31+00:00
+description: "Statement of Policy and Procedure"
+lead: "Statement of Policy and Procedure"
+date: 2021-03-15
+lastmod: 2021-03-15
 draft: false
 images: []
 menu:
-  docs:
-    parent: "help"
+  laws:
+    parent: "policies"
 weight: 630
 toc: true
 ---
 
-![](RackMultipart20210312-4-60q1zk_html_8b6ad46485a3710b.png)
-
-# Malahat Nation
-
-STATEMENT OF POLICY AND PROCEDURE
-
-_Housing Policy_
-
+## Versions
 | **Current Version** | 1.6 |
 | --- | --- |
 | **Policy#** | GOV-009 |
@@ -31,163 +24,80 @@ _Housing Policy_
 | --- | --- |
 | **Policy#** | GOV-009 |
 | **BCR#** |
-|
 | **Effective Date:** | August 11, 2014 |
 
-# Table of Contents
-
-[Glossary of Terms 4](#_Toc55296513)
-
-[Section 1.0 – Introduction 9](#_Toc55296514)
-
-[1.1 Mission Statement 9](#_Toc55296515)
-
-[1.2Revisions to Policy 9](#_Toc55296516)
-
-[1.3Purpose 9](#_Toc55296517)
-
-[Section 2.0 – Governance 11](#_Toc55296518)
-
-[2.1Housing Department 11](#_Toc55296519)
-
-[Section 3.0 – Rental Program 13](#_Toc55296521)
-
-[3.1Posting Rental Vacancies 13](#_Toc55296522)
-
-[3.2Application Requirements 13](#_Toc55296523)
-
-[3.3Criteria for Deciding Rental Unit Allocations 15](#_Toc55296528)
-
-[3.4Emergency Shelter 16](#_Toc55296529)
-
-[3.5Rental Agreement 16](#_Toc55296530)
-
-[3.6 Tenant Responsibilities 17](#_Toc55296531)
-
-[3.6.1Authorized Occupants 19](#_Toc55296532)
-
-[3.6.2Pets 19](#_Toc55296533)
-
-[3.6.3Smoking 20](#_Toc55296534)
-
-[3.6.4Cannabis Cultivation 20](#_Toc55296535)
-
-[3.6.5Insurance 20](#_Toc55296536)
-
-[3.7Payment of Rent 20](#_Toc55296537)
-
-[3.8Rental Rates/Universal Rental Regime 21](#_Toc55296538)
-
-[3.9Arrears Management 22](#_Toc55296539)
-
-[3.10Maintenance 22](#_Toc55296540)
-
-[3.10.1Cleaning Support 24](#_Toc55296542)
-
-[3.10.2Emergency Repairs 24](#_Toc55296543)
-
-[3.11 Renovation of Rental Units 25](#_Toc55296544)
-
-[3.12Inspections 25](#_Toc55296545)
-
-[3.13Fires 26](#_Toc55296549)
-
-[3.14Abandoned Units 27](#_Toc55296550)
-
-[3.15Death of a Tenant 27](#_Toc55296551)
-
-[3.16Marital Breakdown 28](#_Toc55296552)
-
-[3.17Subleases of Rental Units 29](#_Toc55296553)
-
-[3.18Eviction &amp; Termination of a Rental Agreement 31](#_Toc55296557)
-
-[3.19Vacating a Rental Unit 32](#_Toc55296559)
-
-[Section 4.0 – Shelter Allowance Program 35](#_Toc55296560)
-
-[4.1Mortgaged Rental Units 35](#_Toc55296561)
-
-[4.2Rental of Privately-Owned Homes 35](#_Toc55296562)
-
-[Section 5.0 – Renovation Program 38](#_Toc55296563)
-
-[5.1Renovation Program 38](#_Toc55296564)
-
-[Section 6.0 – Appeal Process 40](#_Toc55296568)
-
-# Glossary of Terms
+## Glossary of Terms
 
 When used in this Housing Policy the following definitions will apply to the following terms:
 
-&quot; **Active Housing Application&quot;** means a Housing Application that was submitted to the Housing Department no more than a year ago and/or a Housing Application that has been updated in accordance with this Housing Policy.
+**&quot;Active Housing Application&quot;** means a Housing Application that was submitted to the Housing Department no more than a year ago and/or a Housing Application that has been updated in accordance with this Housing Policy.
 
-&quot; **Additional Rent&quot;** means an amount of money paid, or required to be paid, by a Tenant to Malahat Nation for housing related expenses, services, fees, and/or penalties, including, but not limited to, fees charged for water and sewer services, garbage collection services, and penalties for failing to pay Rent on time.
+**&quot;Additional Rent&quot;** means an amount of money paid, or required to be paid, by a Tenant to Malahat Nation for housing related expenses, services, fees, and/or penalties, including, but not limited to, fees charged for water and sewer services, garbage collection services, and penalties for failing to pay Rent on time.
 
-&quot; **Applicant&quot;** means a person who is applying for the allocation of a Rental Unit using a Housing Application or a person who is applying to purchase, build or renovate a residential dwelling on Malahat Nation Lands using a Market Based Housing Application.
+**&quot;Applicant&quot;** means a person who is applying for the allocation of a Rental Unit using a Housing Application or a person who is applying to purchase, build or renovate a residential dwelling on Malahat Nation Lands using a Market Based Housing Application.
 
-&quot; **Arrears&quot;** means any Rent or money which has become due and owed to the Malahat Nation or a financial institution, has not yet been received and for which no payment plan or Arrears Agreement has been negotiated.
+**"Arrears"** means any Rent or money which has become due and owed to the Malahat Nation or a financial institution, has not yet been received and for which no payment plan or Arrears Agreement has been negotiated.
 
-&quot; **Arrears Agreement&quot;** means an agreement between a Tenant and Malahat Nation that stipulates the amount and due dates for Arrears payments as described in section 3.7 of this Policy.
+**&quot;Arrears Agreement&quot;** means an agreement between a Tenant and Malahat Nation that stipulates the amount and due dates for Arrears payments as described in section 3.7 of this Policy.
 
-&quot; **Authorized Occupant&quot;** means a person who is not a Tenant, but has been approved by the Landlord and designated as an Authorized Occupant in the Rental Agreement to occupy a residence beyond the limited terms permitted for a Guest.
+**&quot;Authorized Occupant&quot;** means a person who is not a Tenant, but has been approved by the Landlord and designated as an Authorized Occupant in the Rental Agreement to occupy a residence beyond the limited terms permitted for a Guest.
 
-&quot; **Borrower&quot;** means a Member or MN Owned Entity who enters into a loan or mortgage agreement with a financial institution under the Market Housing Program.
+**&quot;Borrower&quot;** means a Member or MN Owned Entity who enters into a loan or mortgage agreement with a financial institution under the Market Housing Program.
 
-&quot; **CAO&quot;** means the Chief Administrative Officer and includes the Band Manager position whether under this title or any other, including CEO.
+**&quot;CAO&quot;** means the Chief Administrative Officer and includes the Band Manager position whether under this title or any other, including CEO.
 
-&quot; **CMHC&quot;** means the Canada Mortgage and Housing Corporation.
+**&quot;CMHC&quot;** means the Canada Mortgage and Housing Corporation.
 
-&quot; **Council&quot;** means the Chief and Councilors duly elected by the Malahat Nation members in accordance with the _Indian Act_ or applicable election code.
+**&quot;Council&quot;** means the Chief and Councilors duly elected by the Malahat Nation members in accordance with the _Indian Act_ or applicable election code.
 
-&quot; **Default&quot;** means to commit a breach of a loan agreement with a financial institution or a Security Agreement with Malahat Nation, which entitles the lender or Malahat Nation to take enforcement action.
+**&quot;Default&quot;** means to commit a breach of a loan agreement with a financial institution or a Security Agreement with Malahat Nation, which entitles the lender or Malahat Nation to take enforcement action.
 
-&quot; **Designated contact person&quot;** means the person designated by the housing department to be contacted in case of emergency. The name and contact information of this person will be provided to the Tenant.
+**&quot;Designated contact person&quot;** means the person designated by the housing department to be contacted in case of emergency. The name and contact information of this person will be provided to the Tenant.
 
-&quot; **Eviction&quot;** means the action taken by Malahat Nation to remove a Tenant or person from a Nation-Owned House for failing to comply with this Policy and/or the conditions of their Rental Agreement or the action taken by Malahat Nation to regain possession of land and/or a home upon Default by a Borrower.
+**&quot;Eviction&quot;** means the action taken by Malahat Nation to remove a Tenant or person from a Nation-Owned House for failing to comply with this Policy and/or the conditions of their Rental Agreement or the action taken by Malahat Nation to regain possession of land and/or a home upon Default by a Borrower.
 
-&quot; **Emergency Shelter&quot;** means housing that may be made available on a temporary basis as authorized by the CAO that may not offer all of the equipment, services, and occupancy latitude standard in permanent housing.
+**&quot;Emergency Shelter&quot;** means housing that may be made available on a temporary basis as authorized by the CAO that may not offer all of the equipment, services, and occupancy latitude standard in permanent housing.
 
-&quot; **FNMHF&quot;** means the First Nations Market Housing Fund.
+**&quot;FNMHF&quot;** means the First Nations Market Housing Fund.
 
-&quot; **Force Majeure&quot;** means any act, event or cause, except in relation to obligations to make payments under this Agreement, beyond the reasonable control of the party affected by that force majeure including, without limitation, any act of God or any public enemy, fire, flood, explosion, landslide, natural disaster or epidemic.
+**&quot;Force Majeure&quot;** means any act, event or cause, except in relation to obligations to make payments under this Agreement, beyond the reasonable control of the party affected by that force majeure including, without limitation, any act of God or any public enemy, fire, flood, explosion, landslide, natural disaster or epidemic.
 
-&quot; **Guest&quot;** means a person who is neither a Tenant nor an Authorized Occupant, but is otherwise permitted to be present on Nation lands and may remain in accordance with this Housing Policy for a period of 20 days consecutively, or a maximum of 30 days in a six-month period.
+**&quot;Guest&quot;** means a person who is neither a Tenant nor an Authorized Occupant, but is otherwise permitted to be present on Nation lands and may remain in accordance with this Housing Policy for a period of 20 days consecutively, or a maximum of 30 days in a six-month period.
 
-&quot; **Homeowner**&quot; means a Member to whom possession of a house or other residential property on Malahat Nation Lands has been allotted by Council pursuant to a customary allotment.
+**&quot;Homeowner**&quot; means a Member to whom possession of a house or other residential property on Malahat Nation Lands has been allotted by Council pursuant to a customary allotment.
 
-&quot; **Household Composition**&quot; means the number of people in a household, their ages, genders and relationships.
+**&quot;Household Composition**&quot; means the number of people in a household, their ages, genders and relationships.
 
-&quot; **Housing Application&quot;** means an application for the allocation of a Rental Unit and which will be available upon request from the Housing Department.
+**&quot;Housing Application&quot;** means an application for the allocation of a Rental Unit and which will be available upon request from the Housing Department.
 
-&quot; **Housing Department**&quot; means the Housing Manager and the housing employees of the Malahat Nation who have been delegated authority by the Housing Manager to administer this Housing Policy and the Housing Programs.
+**&quot;Housing Department**&quot; means the Housing Manager and the housing employees of the Malahat Nation who have been delegated authority by the Housing Manager to administer this Housing Policy and the Housing Programs.
 
-&quot; **Household Income&quot;** means the whole and combined gross income or money received, of all members of the household.
+**&quot;Household Income&quot;** means the whole and combined gross income or money received, of all members of the household.
 
-&quot; **Housing Program&quot;** means the Rental Program, Shelter Allowance Program, Homeowner Program, Market Housing Program and any other housing program that is implemented in accordance with this Policy.
+**"Housing Program&quot;** means the Rental Program, Shelter Allowance Program, Homeowner Program, Market Housing Program and any other housing program that is implemented in accordance with this Policy.
 
-&quot; **Immediate Family&quot;** means spouses, parents, siblings and children.
+**"Immediate Family&quot;** means spouses, parents, siblings and children.
 
-&quot; **ISC&quot;** means Indigenous Services Canada, formerly Aboriginal Affairs and Northern Development Canada, which itself was formerly Indian and Northern Affairs Canada.
+**"ISC"** means Indigenous Services Canada, formerly Aboriginal Affairs and Northern Development Canada, which itself was formerly Indian and Northern Affairs Canada.
 
-&quot; **Landlord&quot;** means Malahat Nation.
+**"Landlord&quot;** means Malahat Nation.
 
-&quot; **Malahat Nation or MN&quot;** means the Indian &quot;Band&quot; as defined by the _Indian Act_ and known as the Malahat Nation.
+**"Malahat Nation or MN&quot;** means the Indian &quot;Band&quot; as defined by the _Indian Act_ and known as the Malahat Nation.
 
-&quot; **Malahat Nation Lands&quot;** means reserve lands set apart for the use and benefit of the Malahat Nation.
+**"Malahat Nation Lands&quot;** means reserve lands set apart for the use and benefit of the Malahat Nation.
 
-&quot; **Member&quot;** means a member of the Malahat Nation whose name appears on or is eligible to appear on the Malahat Nation membership list.
+**"Member&quot;** means a member of the Malahat Nation whose name appears on or is eligible to appear on the Malahat Nation membership list.
 
-&quot; **MN Owned Entity&quot;** means a corporation which is wholly owned by or on behalf of Malahat Nation.
+**"MN Owned Entity&quot;** means a corporation which is wholly owned by or on behalf of Malahat Nation.
 
-&quot; **Mortgaged Rental Unit&quot;** means a Nation-Owned House that is no longer subject to a mortgage, was constructed and financed through the CMHC Section 95 program or bank financing, and is occupied by a Tenant.
+**"Mortgaged Rental Unit&quot;** means a Nation-Owned House that is no longer subject to a mortgage, was constructed and financed through the CMHC Section 95 program or bank financing, and is occupied by a Tenant.
 
-&quot; **Nation-Owned House&quot;** means a house, or other residential property owned and administered by the Malahat Nation and includes, but is not limited to:
+**"Nation-Owned House&quot;** means a house, or other residential property owned and administered by the Malahat Nation and includes, but is not limited to:
 
 - Rental Units; and
 - Mortgaged Rental Units.
 
-&quot; **National Occupancy Standard&quot;** means the requirements set by the Canadian Mortgage and Housing Corporation (CMHC) to help determine the number of bedrooms a dwelling should have to provide freedom from crowding taking into account the number, age, sex and interrelationships of the household members:
+**"National Occupancy Standard&quot;** means the requirements set by the Canadian Mortgage and Housing Corporation (CMHC) to help determine the number of bedrooms a dwelling should have to provide freedom from crowding taking into account the number, age, sex and interrelationships of the household members:
 
 The Canadian National Occupancy Standards states that:
 
@@ -197,117 +107,67 @@ The Canadian National Occupancy Standards states that:
 - children under 18 years of the same sex may share a bedroom, and
 - a child aged 5 to 17 years should not share a bedroom with a child under 5 of the opposite sex.
 
-&quot; **Housing Manager&quot;** means the Malahat Nation employee who has been delegated authority by the CAO to manage and implement this Housing Policy and to manage the day to day operations of the Housing Department and Housing Programs.
+**"Housing Manager&quot;** means the Malahat Nation employee who has been delegated authority by the CAO to manage and implement this Housing Policy and to manage the day to day operations of the Housing Department and Housing Programs.
 
-&quot; **Non-member&quot;** means a person who is not a member of Malahat Nation.
+**"Non-member&quot;** means a person who is not a member of Malahat Nation.
 
-&quot; **Permanent Residence&quot;** means the residence which a person occupies on a year-round basis for the purposes of the Homeowner Program.
+**"Permanent Residence&quot;** means the residence which a person occupies on a year-round basis for the purposes of the Homeowner Program.
 
-&quot; **Primary Residence&quot;** means the home which a person occupies the majority of the time.
+**"Primary Residence&quot;** means the home which a person occupies the majority of the time.
 
-&quot; **Primary Tenant&quot;** means the original signatory tenant in a subleasing context.
+**"Primary Tenant&quot;** means the original signatory tenant in a subleasing context.
 
-&quot; **Private Tenant**&quot; means a person who pays, or is required to pay, rent to a landlord Homeowner in return for the right to occupy a Privately-Owned Home.
+**"Private Tenant**&quot; means a person who pays, or is required to pay, rent to a landlord Homeowner in return for the right to occupy a Privately-Owned Home.
 
-&quot; **Privately Owned Home**&quot; means a house or other residential property on Malahat Nation Lands that a Member has been allotted by Council pursuant to a customary allotment.
+**"Privately Owned Home**&quot; means a house or other residential property on Malahat Nation Lands that a Member has been allotted by Council pursuant to a customary allotment.
 
-&quot; **Proof of Income&quot;** is the requirement for the tenant to supply the Housing Department with documentation to verify annual income of the household, including T-4&#39;s, Revenue Canada Notice of Assessment (T451) or other documents that substantiate income from all sources.
+**"Proof of Income&quot;** is the requirement for the tenant to supply the Housing Department with documentation to verify annual income of the household, including T-4&#39;s, Revenue Canada Notice of Assessment (T451) or other documents that substantiate income from all sources.
 
-&quot; **Rent&quot;** means an amount of money paid, or required to be paid, monthly by a Tenant to Malahat Nation in exchange for the right to occupy a Nation-Owned House, but does not include a security deposit, Arrears, or other debts owed by a Tenant to Malahat Nation in connection with the tenancy.
+**"Rent&quot;** means an amount of money paid, or required to be paid, monthly by a Tenant to Malahat Nation in exchange for the right to occupy a Nation-Owned House, but does not include a security deposit, Arrears, or other debts owed by a Tenant to Malahat Nation in connection with the tenancy.
 
-&quot; **Rental Agreement&quot;** means the written agreement between a Tenant and the Malahat Nation that confers on the Tenant a right to occupy a Rental Unit in exchange for the payment of Rent, and includes Sublease Agreements and any renewal of a Rental Agreement or Sublease Agreement.
+**"Rental Agreement&quot;** means the written agreement between a Tenant and the Malahat Nation that confers on the Tenant a right to occupy a Rental Unit in exchange for the payment of Rent, and includes Sublease Agreements and any renewal of a Rental Agreement or Sublease Agreement.
 
-&quot; **Rental Unit&quot;** means a Nation-Owned House that is available to be occupied by a Tenant under the terms of a Rental Agreement and in exchange for payment of Rent, and includes Mortgaged Rental Units.
+**"Rental Unit&quot;** means a Nation-Owned House that is available to be occupied by a Tenant under the terms of a Rental Agreement and in exchange for payment of Rent, and includes Mortgaged Rental Units.
 
-&quot; **RRAP&quot;** means the Residential Rehabilitations Assistance Program which is administered by CMHC.
+**"RRAP&quot;** means the Residential Rehabilitations Assistance Program which is administered by CMHC.
 
-&quot; **Secondary Contact Person&quot;** means the person designated by the housing department to be contacted in case of emergency if the primary contact person is unavailable. The name and contact information of this person will be provided to the Tenant.
+**"Secondary Contact Person&quot;** means the person designated by the housing department to be contacted in case of emergency if the primary contact person is unavailable. The name and contact information of this person will be provided to the Tenant.
 
-&quot; **Security Agreement&quot;** means the written agreement setting out the respective rights and obligations of Malahat Nation and the Borrower in respect of a First Nation loan guarantee under the Market Housing Program.
+**"Security Agreement&quot;** means the written agreement setting out the respective rights and obligations of Malahat Nation and the Borrower in respect of a First Nation loan guarantee under the Market Housing Program.
 
-&quot; **Shelter Allowance&quot;** means financial assistance a Tenant receives or which Malahat Nation receives on a Tenants behalf to pay Rent and housing related expenses, including, but not limited to, housing related expenses that may be charged as Additional Rent by Malahat Nation.
+**"Shelter Allowance&quot;** means financial assistance a Tenant receives or which Malahat Nation receives on a Tenants behalf to pay Rent and housing related expenses, including, but not limited to, housing related expenses that may be charged as Additional Rent by Malahat Nation.
 
-&quot; **Spouse&quot;** means either of two (2) persons who are married to each other or who have lived with each other in a marriage-like relationship for a period of at least two (2) years and includes persons of the same gender.
+**"Spouse&quot;** means either of two (2) persons who are married to each other or who have lived with each other in a marriage-like relationship for a period of at least two (2) years and includes persons of the same gender.
 
-&quot; **Sublease&quot;** means a temporary agreement made between a Tenant and a Member through which the Member assumes the rights and responsibilities of the Tenant in relation to a Rental Unit for a specified period of time.
+**"Sublease&quot;** means a temporary agreement made between a Tenant and a Member through which the Member assumes the rights and responsibilities of the Tenant in relation to a Rental Unit for a specified period of time.
 
-&quot; **Sublease Agreement&quot;** means an agreement made between Malahat Nation and a Subtenant for the temporary use and occupancy of a Rental Unit for which there is a Rental Agreement in place between Malahat Nation and a primary Tenant.
+**"Sublease Agreement&quot;** means an agreement made between Malahat Nation and a Subtenant for the temporary use and occupancy of a Rental Unit for which there is a Rental Agreement in place between Malahat Nation and a primary Tenant.
 
-&quot; **Subtenant&quot;** means a Member who agrees to Sublease a Rental Unit from a Tenant and enter into a Sublease Agreement with Malahat Nation.
+**"Subtenant&quot;** means a Member who agrees to Sublease a Rental Unit from a Tenant and enter into a Sublease Agreement with Malahat Nation.
 
-&quot; **Tenant&quot;** means a person who enters into a Rental Agreement or Sublease Agreement with the Malahat Nation and pays Rent or who is required to pay Rent to Malahat Nation in return for the right to occupy a Nation-Owned House.
+**"Tenant&quot;** means a person who enters into a Rental Agreement or Sublease Agreement with the Malahat Nation and pays Rent or who is required to pay Rent to Malahat Nation in return for the right to occupy a Nation-Owned House.
 
-&quot; **Waiting List&quot;** means the list of Active Housing Applications on file with the Housing Department.
+**"Waiting List&quot;** means the list of Active Housing Applications on file with the Housing Department.
 
-&quot; **Working days&quot;** mean Monday – Friday except for statutory holidays.
+**"Working days&quot;** mean Monday – Friday except for statutory holidays.
 
 Any defined term will be read as having an appropriate corresponding meaning if referred to in the singular, plural, verb, or noun form.
 
-# **Section 1.0 - Introduction**
+## Section 1.0 - Introduction
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-# Section 1.0 – Introduction
-
-## 1.1 Mission Statement
+### 1.1 Mission Statement
 
 Malahat Nation is committed to providing Members with options for safe, affordable and energy efficient housing in a manner that is unbiased, transparent and fair.
 
-## 1.2 Revisions to Policy
+### 1.2 Revisions to Policy
 
 This Housing Policy shall be reviewed and, if necessary, revised annually to ensure it is relevant and continues to meet the needs of the community.
 
-#
-
-## 1.3 Purpose
+### 1.3 Purpose
 
 Malahat Nation has developed and adopted this Housing Policy for the effective management of on-reserve housing. Implementing a comprehensive Housing Policy provides Council and the Housing Department with a framework to deliver the Housing Program to all Malahat Nation Members reliably and consistently. It also enables the Malahat Nation to align policy and program delivery across departments for effective use of limited resources and to ensure the maintenance of rental houses.
 
-**1.4 Guiding Principles**
+### 1.4 Guiding Principles
 
 In conjunction with Council, Members, and the Housing Department the following guiding principles have been established:
 
@@ -324,43 +184,21 @@ In conjunction with Council, Members, and the Housing Department the following g
 
 - Pursue alternative and creative housing opportunities so that a greater number of Malahat Nation Members have the opportunity to own a home;
 
-**1.5 Authority and Application**
+### 1.5 Authority and Application
 
 This Housing Policy is made under the authority of the Council.
 
 This Housing Policy and the guidelines, procedures, policies and criteria it establishes apply to all houses (as identified in this Policy) on Malahat Nation Lands and to all housing services provided by the Housing Department.
 
-# **Section 2.0 – Governance**
+## Section 2.0 – Governance
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-# Section 2.0 – Governance
-
-## 2.1 Housing Department
+### 2.1 Housing Department
 
 The Housing Department, in cooperation and consultation with the Housing Manager, shall be responsible for the day to day operations, administration and management of this Housing Policy and the Housing Programs.
 
 The Housing Department&#39;s office is located at 1121 Jesken Road, Mill Bay, BC.
 
-###
-
-### Housing Department Roles and Responsibilities
+#### Housing Department Roles and Responsibilities
 
 Under the direction of, and in cooperation and consultation with, the Housing Manager, the Housing Department shall carry out the following functions:
 
@@ -387,45 +225,17 @@ Under the direction of, and in cooperation and consultation with, the Housing Ma
 - enter into Arrears Agreements with Tenants as required; and
 - prepare and deliver all notices, including Arrears and Eviction notices.
 
-##
+## Section 3.0 – Rental Program
 
-# **Section 3.0 – Rental Program**
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-# Section 3.0 – Rental Program
-
-## 3.1 Posting Rental Vacancies
+### 3.1 Posting Rental Vacancies
 
 When a rental unit becomes available, the Housing Department shall post an announcement on MalahatNation.com and Malahat Nation&#39;s Facebook page, which shall be visible for a minimum period of 90 days before the unit is allocated. If there are extenuating circumstances that require a truncated posting period, the CAO may authorize an expedited process.
 
-## 3.2 Application Requirements
+### 3.2 Application Requirements
 
 The following requirements must be met by Applicants who wish to be considered for allocation of a Rental Unit. If any of these requirements are not met, the Housing Department: shall not accept the Housing Application and shall advise the applicant that the application requirements were not met.
 
-###
-
-### Housing Application Form
+#### Housing Application Form
 
 In order to be considered for allocation of a Rental Unit, the Applicant must submit a completed Housing Application to the Housing Department that includes:
 
@@ -437,7 +247,7 @@ Applicants receiving Shelter Allowance must provide proof of income or some othe
 
 In shared parenting time arrangements, written proof must be provided to the Housing Department demonstrating said arrangements. This can be provided by either the guardians or parents but is necessary before evaluating the housing application.
 
-### Membership and Age Requirement
+#### Membership and Age Requirement
 
 To submit a Housing Application for the allocation of a Rental Unit, the Applicant must be: a Member or a Non-member with primary care of a minor Member child and provide their status number; and eighteen (18) years of age or older, unless there are extenuating circumstances. Some of the extenuating circumstances that may be taken into account when deciding whether to accept a Housing Application from an Applicant who is under the age of eighteen (18) are:
 
@@ -451,13 +261,11 @@ To submit a Housing Application for the allocation of a Rental Unit, the Applica
 - the fact the Applicant&#39;s current residence was destroyed or rendered uninhabitable by fire or as another consequence of circumstances of Force Majeure
 - Force Majeure
 
-### Income Requirement
+#### Income Requirement
 
 The Applicant must provide evidence of sufficient income to support the Rent payable, such as pay stubs, training allowance, or income/social assistance documents, or a letter of employment.
 
-### Arrears and Rental History
-
-###
+#### Arrears and Rental History
 
 Applicants must be in good standing with Malahat Nation to be eligible for a rental unit. Good standing means that any Arrears are paid in full or an Arrears Agreement has been created between the Tenant and the Housing Department.
 
@@ -482,7 +290,7 @@ If applications are found to be incomplete, the housing department will do as fo
 1. Contact the applicant at least 3 (three) times to give them a chance to complete the application and;
 2. Send a letter to their listed address notifying including contact information and in-person office hours.
 
-## 3.3 Criteria for Deciding Rental Unit Allocations
+### 3.3 Criteria for Deciding Rental Unit Allocations
 
 Providing safe, affordable and energy efficient housing for all Members is a priority for Malahat Nation. Unfortunately, the need for Rental Units often exceeds capacity and available funding.
 
@@ -506,9 +314,7 @@ If two Housing Applications receive the same score and the Household Composition
 
 Once the housing department has evaluated all relevant applications, The Allocation Review form will be filled out summarizing the process and recommending to the CAO a specific allocation. Upon review that the process was properly followed, the CAO may then affirm the designation by signing the Allocation Review. At this point the home will be allocated to the appropriate applicant and the Housing Manager may sign the lease.
 
-##
-
-## 3.4 Emergency Shelter
+### 3.4 Emergency Shelter
 
 From time to time, the CAO may authorize emergency shelter on a temporary basis with a periodic tenancy, which will typically be month-to-month. Emergency shelter may not offer all of the equipment, services, and occupancy latitude standard in permanent housing. Specifically, neither guests nor subleases will typically be permitted in emergency shelter.
 
@@ -518,7 +324,7 @@ When emergency shelter is provided, a Rental Agreement will be signed and rent w
 
 If a member resides in emergency shelter and wishes to apply for a permanent rental unit, he or she shall submit a Housing Application to be scored in accordance with this Policy. The applicant shall be presumed to reside in temporary housing, and need not submit additional proof of this to the Housing Department.
 
-## 3.5 Rental Agreement
+### 3.5 Rental Agreement
 
 The Rental Agreement has been developed to protect the Rental Unit, the Tenant and Malahat Nation. The Rental Agreement sets out the rights and obligations of the Tenant and of Malahat Nation.
 
@@ -558,7 +364,7 @@ Notice to the Landlord may be given by:
 3. leaving a copy in the Landlord&#39;s mail box or mail slot;
 4. transmitting a copy to the Landlord&#39;s fax number or email address.
 
-## 3.6 Tenant Responsibilities
+### 3.6 Tenant Responsibilities
 
 
 Every person who lives in a Rental Unit has certain responsibilities which must be adhered to as conditions to for them to continue occupying the Rental Unit and property. In general, all individuals must comply with Malahat Nation laws, bylaws and policies, including the terms of this Policy.
@@ -602,11 +408,11 @@ Tenants must not:
 - use the Rental Unit, or allow the Rental Unit to be used, for any purpose other than as a residential dwelling for the Tenant, Authorized Occupants, and/or guests, unless other arrangements have been made with the Housing Department in writing;
 - conduct business activities of any kind on, in or around the Rental Unit, unless the Tenant has obtained the express written approval of the Housing Manager and has provided proof of adequate insurance.
 
-## 3.6.1 Authorized Occupants
+#### 3.6.1 Authorized Occupants
 
 The Rental Agreement shall list all Authorized Occupants. Anyone who enters the home to remain temporarily is a guest. Guests may reside in the home temporarily for a period of 20 consecutive days, to a total of 30 days in any six-month period. If any Guest wishes to remain in the home for more than 20 consecutive days or 30 days in a six-month period, the Tenant may request that the Housing Department update the Rental Agreement to include this person as an Authorized Occupant. This will be done at the sole discretion of the Housing Department. It is expected that Tenants will respect the spirit of this rule, and the Housing Department shall have the right to refuse Guest access at any time.
 
-## 3.6.2 Pets
+#### 3.6.2 Pets
 
 No pets are permitted inside or outside the Rental Unit without the prior written approval of the Housing Manager, which must be signed by both the Housing Manager and Tenant and appended to the rental agreement.
 
@@ -622,17 +428,15 @@ If a pet is allowed, the Tenant shall have to pay for any and all damage done to
 
 Additional terms and conditions may be required at any time without a requirement of prior notice. The Landlord is obligated to inform the Tenant of any such changes.
 
-## 3.6.3 Smoking
+#### 3.6.3 Smoking
 
 Smoking of any combustible material in the Rental Unit or within ten (10) meters of another Rental Unit is strictly prohibited.
 
-##
-
-## 3.6.4 Cannabis Cultivation
+#### 3.6.4 Cannabis Cultivation
 
 Cultivation of cannabis in the Rental Unit or on the Residential Property is strictly prohibited pursuant to Section 4-2(2) of the Malahat Nation Cannabis Control Law.
 
-## 3.6.5 Insurance
+#### 3.6.5 Insurance
 
 The Tenant is solely responsible for insuring his or her personal property against loss from any and all causes. The Landlord, including the Malahat Nation Housing Department, shall in no event be responsible for the loss, destruction, theft of, or damages to, such property.
 
@@ -644,7 +448,7 @@ The Tenant shall be responsible for paying the deductible on the Landlord&#39;s 
 
 The Landlord shall insure the Rental Unit against damage caused by fire, or as a consequence of circumstances of Force Majeure.
 
-## 3.7 Payment of Rent
+### 3.7 Payment of Rent
 
 All Tenants are expected to pay Rent. Rental payments contribute toward the cost of housing and are used to protect the community&#39;s investment in Nation-Owned Houses and to maximize housing resources.
 
@@ -658,8 +462,7 @@ Tenants receiving income/social assistance must make arrangements with the Band 
 
 Malahat Nation employees who are in Arrears may make arrangements with the Housing Department to pay the Arrears through wage deductions. Malahat Nation employees not in Arrears can also make arrangements for wage deductions to pay their Rent.
 
-## 3.8 Rental Rates/Universal Rental Regime
-
+### 3.8 Rental Rates/Universal Rental Regime
 
 Malahat Nation employs a Universal Rental Regime which provides consistent rental rates for Malahat Nation homes.
 
@@ -683,7 +486,7 @@ This rental regime is applicable to all band owned homes on reserve, regardless 
 
 CMHC homes Rental Agreements will have rates based on the CMHC operating agreement.
 
-## 3.8.1 Services/Utilities
+#### 3.8.1 Services/Utilities
 
 In addition to rent, Malahat Nation charges MTSA (Municipal Type Service Agreement) fees to cover municipal services such as garbage and street lights. This is because Malahat Nation has agreements with third party entities to supply these services to the Nation&#39;s residents.
 
@@ -697,7 +500,7 @@ Residents who have woodstoves and would like to purchase firewood from Malahat N
 
 Malahat Nation provides Shaw internet and a home phone line for a reduced rate to tenants upon request.
 
-## 3.9 Arrears Management
+### 3.9 Arrears Management
 
 
 Collection procedures and the consequences of being in Arrears are further outlined in the Rental Agreement.
@@ -716,9 +519,9 @@ Both the Tenant and the Housing Department must agree to all Arrears Agreements 
 
 The Tenant may appeal an Eviction by following the appeal process outlined at Section 7.0 of this Policy.
 
-## 3.10 Maintenance
+### 3.10 Maintenance
 
-### Malahat Nation Responsibilities
+#### Malahat Nation Responsibilities
 
 
 Malahat Nation, through the Housing Department, is responsible for major repairs and replacements, repairs arising from normal wear and tear, and preventative maintenance necessary to ensure compliance with health and safety standards and/or to extend the useful life of the Rental Unit.
@@ -740,7 +543,7 @@ The Housing Department will keep a record of all maintenance and repairs carried
 
 Malahat Nation and the Housing Department may provide additional services to Tenants, such as garbage collection, sewer and water services. The provision of such services shall be on a case by case basis and shall require an accompanying agreement.
 
-Tenant Responsibilities
+#### Tenant Responsibilities
 
 In addition to those responsibilities outlined in Section 3.6 of this Policy, Tenants are responsible for the general maintenance, cleaning, repairs and replacements outlined in the Rental Agreement. A schedule of specific Tenant maintenance responsibilities is included in the Rental Agreement.
 
@@ -756,7 +559,7 @@ Tenants are required to keep their Rental Unit and surrounding area clean, the g
 
 When the Housing Department is to perform maintenance duties, the Tenant must ensure that the area where maintenance is being performed is safe and free of clutter, waste or other hazards.
 
-## 3.10.1 Cleaning Support
+#### 3.10.1 Cleaning Support
 
 Malahat Nation and will provide cleaning services to all Tenants at a reasonable rate. This is an optional service intended to support Tenants and preserve the housing stock.
 
@@ -766,7 +569,7 @@ In the event a Tenant opts out from utilizing the cleaning service, after thirty
 
 If after a second inspection the property is still in violation, the cleaning service will become mandatory and the charge for the cleaning will be added to the tenancy agreement. If the Tenant refuses the cleaning service or prevents the cleaning service from entering the property, any further violations of the required maintenance will be considered a violation of the housing policy and/or rental agreement and the processes outlined in §3.18 will be initiated.
 
-## 3.10.2 Emergency Repairs
+#### 3.10.2 Emergency Repairs
 
 Emergency repairs are repairs that are urgent and necessary for the health and safety of persons or the preservation or use of the Rental Unit, and generally limited to repairs to:
 
@@ -789,7 +592,7 @@ If after 15 minutes no response has been received from the Secondary Contact, th
 
 If the Tenant undertakes emergency repairs in accordance with this section, the Landlord may take over completion of the emergency repairs at any time.
 
-## 3.11 Renovation of Rental Units
+### 3.11 Renovation of Rental Units
 
 Tenants must receive written permission from the Housing Department prior to making any major repairs, alterations, additions or improvements to a Rental Unit and, where applicable, are responsible for obtaining any permits or other permits or licenses requires under any Malahat Nation policy or law. A qualified inspector shall review any such alterations, additions, or improvements to ensure they meet applicable codes, laws and policies.
 
@@ -799,17 +602,17 @@ Tenants will not be reimbursed for any alterations, additions or improvements th
 
 Except where otherwise agreed to in writing by the Parties, all improvements to the Rental Unit will become the property of the Landlord
 
-## 3.12 Inspections
+### 3.12 Inspections
 
 If, at any time, the Housing Department and a qualified inspector conduct an inspection and determine that the Rental Units is in such condition that it should be condemned or has severe structural damage posing a hazard to health and/or safety, then any person occupying the Rental Unit will be removed and placed into temporary housing. A Tenant removed from such a home shall submit a Housing Application which will be given priority over other Housing Applications on the Waiting List if is not possible to move them back into their original unit
 
 However, if a Rental Unit is condemned or has severe structural damage posing a hazard to health and/or safety because of the deliberate or negligent acts or omissions of the Tenant, or their Immediate Family and/or guests, the Tenant will be deemed to have been Evicted.
 
-### Regular Inspections
+#### Regular Inspections
 
 Malahat Nation and the Housing Department may inspect Rental Units on a quarterly basis and/or at any other time **with twenty-four (24) hours written notice**. The inspection will be carried out to record the condition of the Rental Unit. These inspections will identify the need for any preventative maintenance as well as to determine any misuse or negligence on the part of the Tenant(s), any Authorized Occupants, and/or guests.
 
-### Move-In Inspection
+#### Move-In Inspection
 
 A move-in inspection will be completed on the day the Tenant is entitled to take possession of the Rental Unit or on another mutually agreed upon day that is prior to the Tenant taking possession of the Rental Unit.
 
@@ -817,9 +620,7 @@ The move-in inspection will be completed jointly by the Tenant and a representat
 
 The Housing Department representative will complete a Home Inspection that confirms the condition of the property. The report must be reviewed and signed off by both the Housing Department representative and the Tenant.
 
-###
-
-### Move-Out Inspection
+#### Move-Out Inspection
 
 
 A move-out inspection will be completed by the Housing Department and Tenant on or after the day the Tenant ceases to occupy the Rental Unit and prior to any new Tenant taking possession of the Rental Unit.
@@ -830,7 +631,7 @@ The Housing Department may perform the inspection and complete and sign the Home
 
 Any repairs to the Rental Unit that are required as the result of the deliberate or negligent acts or omissions of the Tenant or their Immediate Family, Authorized Occupants, and/or guests shall be confirmed in writing to the Tenant and cost recovery will be pursued by the Housing Department. Tenants will not be billed for regular wear and tear.
 
-## 3.13 Fires
+### 3.13 Fires
 
 
 After a fire has been reported, the Housing Department shall ensure that there is a full investigation and that the following information is documented and retained:
@@ -850,7 +651,7 @@ Accidental fires will be covered under Malahat Nation&#39;s insurance and the de
 
 Tenants of Rental Units rendered uninhabitable by fires will be required to re-apply for a new Rental Unit allocation. Where the fire was accidental, the Tenant shall submit a Housing Application which will be given priority over other Housing Applications already on the Waiting List. However, if it is determined that the fire was the result of a deliberate or negligent act or omission of the Tenant, or their Immediate Family and/or guests, the Tenant will be deemed to have been Evicted.
 
-## 3.14 Abandoned Units
+### 3.14 Abandoned Units
 
 Tenants who have abandoned a Rental Unit will be deemed to have been Evicted from the Rental Unit. A Rental Unit will be deemed abandoned when:
 
@@ -864,7 +665,7 @@ Any Arrears and the cost of repairing any damage not caused by regular wear and 
 
 Personal effects left in the house will be held for one month. Malahat Nation is not liable for any lost or damaged personal effects in the event of an abandoned unit.
 
-## 3.15 Death of a Tenant
+### 3.15 Death of a Tenant
 
 In the event of a Tenant&#39;s death and there are still Tenants listed on the lease, the lease is considered valid unless the remaining Tenant(s) wishes to terminate the lease.
 
@@ -881,7 +682,7 @@ In the event that the person who takes priority is a Spouse or legal guardian wh
 
 For single Tenants, Tenants with no eligible next of kin, and/or Tenants who live alone, the Housing Department will wait two (2) weeks to consult with family members. After the two (2) week period, the family, friends or executor(ix) will be required to make the necessary arrangements for access to the Rental Unit and will remove all the personal belongings within another two (2) weeks. The Housing Department will then re-allocate the Rental Unit in accordance with this policy and the waiting list.
 
-## 3.16 Marital Breakdown
+### 3.16 Marital Breakdown
 
 
 In the case of marital breakdown where there are no children of the relationship, both parties are Members and the Rental Agreement is in both names, Malahat Nation will ask the Tenants to work out an arrangement where one of the Tenants retains the right to possession of the Rental Unit. If the Tenants are unable to work out an arrangement within thirty (30) days, both parties will submit a Housing Application to the Housing Department and the Housing Department will score the applications using the Application Scoring Guide. The highest score will retain possession of the Rental Unit and the right to occupy it. Upon the Housing Manager or the designated Housing Department employee(s) allocating the Rental Unit, the new Tenant must enter into and sign a Rental Agreement with the Housing Department.
@@ -898,17 +699,15 @@ In the case of marital breakdown where there are children of the relationship, t
 
 - If the child (or children) is a Member and the parent with primary care of the child (or children) is a Non-member, the Non-member parent with primary care of the child (or children) will retain possession of the Rental Unit and will have the right to occupy the Rental Unit so long as the Member child (or children) lives there and the Non-member parent retains primary care of the child (or children). The Non-member parent will be required to enter into a Rental Agreement. Once the Member child has reached the age of majority (eighteen (18) years of age), the Member child may enter into a Rental Agreement and the Non-member Spouse/parent/guardian may continue to occupy the home as an authorized occupant in accordance with this Policy.
 
-## 3.17 Subleases of Rental Units
+### 3.17 Subleases of Rental Units
 
-###
-
-### Prohibited Transfers
+#### Prohibited Transfers
 
 Rental Agreements and the right to occupy a Rental Unit may not be transferred or assigned without the prior written approval of the Housing Department.
 
 A Tenant **cannot** transfer a Rental Agreement nor the right to occupy a Rental Unit because the Tenant no longer requires the Rental Unit. In such cases, the Tenant may move out of the Rental Unit after providing the Housing Department with thirty (30) days&#39; notice. The Rental Unit will then be re-allocated in accordance with this Policy and the Waiting List. However, the Housing Department reserves the right to review such situations on a case by case basis.
 
-### Application Procedure
+#### Application Procedure
 
 Under certain circumstances, a Tenant may apply to the Housing Department for permission to sublet his/her Rental Unit to another Member.
 
@@ -956,8 +755,6 @@ The maximum term for a Sublease Agreement will typically be two (2) years. Howev
 
 A Sublease may be cancelled at any time upon the mutual agreement of the primary Tenant and the Subtenant. The Tenant and Subtenant must provide the Housing Department with thirty (30) days&#39; notice of their desire to cancel a Sublease, if they fail to do so the Housing Department may refuse to terminate the Sublease Agreement for a period of up to thirty (30) days.
 
-###
-
 ### Survival of the Rental Agreement
 
 The Rental Agreement between Malahat Nation and the original Tenant remains in force for the duration of the Sublease and survives the expiration and/or termination of the Sublease Agreement. The original Tenant is ultimately responsible to ensure that all the obligations of the Rental Agreement, including paying Rent and utilities, are met. This means that if the Subtenant breaches the terms of the Sublease Agreement and Malahat Nation is unable to recover Arrears, costs, damages or other expenses from the Subtenant, the original Tenant will be responsible.
@@ -966,7 +763,7 @@ If the Subtenant is Evicted by Malahat Nation or abandons the Rental Unit, the o
 
 If a Tenant allows another Member or person to reside in a Rental Unit without the approval of the Housing Department, the Tenant will be responsible for any damage to the Rental Unit and may be subject to Eviction.
 
-## 3.18 Eviction &amp; Termination of a Rental Agreement
+### 3.18 Eviction &amp; Termination of a Rental Agreement
 
 
 Malahat Nation may Evict a Tenant where a Rental Agreement is terminated due to breach of this Housing Policy and/or the Rental Agreement. Malahat Nation considers Eviction to be a last resort to be taken when all attempts to resolve the issues have failed. Prior to taking Eviction action, the Housing Department will make every effort to provide reasonable warning(s) and may attempt to meet with the Tenant to reinforce the consequences of failing to resolve the breach of the Rental Agreement and/or this Policy
@@ -986,7 +783,7 @@ Tenants or persons within a Rental Unit may be Evicted by the CAO for any of the
 
 For clarity, the Housing Department recommends evictions to the CAO, who makes the final decision whether to Evict a Tenant. If a Housing Committee has been established, the CAO may delegate authority over this section to the Housing Committee.
 
-### Disturbances &amp; Complaints
+#### Disturbances &amp; Complaints
 
 Complaints regarding a Tenant must be provided in writing and submitted to the Housing Department. Complaints will only be discussed with complainants and the Tenant who is the subject of the complaint and the identity of complainants will be kept confidential. If, in the opinion of the Housing Department, a Tenant is causing a nuisance or an on-going disturbance, a warning may be issued.
 
@@ -1014,7 +811,7 @@ Where the reason for Eviction is Arrears, the Tenant will not qualify for future
 
 Notwithstanding the foregoing, Malahat Nation may consider Housing Applications of former Tenants who were Evicted at any time on a case by case basis.
 
-## 3.19 Vacating a Rental Unit
+### 3.19 Vacating a Rental Unit
 
 All Tenants shall notify the Housing Department, in writing, thirty (30) days prior to vacating a Rental Unit. A notice to end this Agreement given by the Tenant the day before the rent is due in a given month ends the tenancy at the end of the following month. _[For example, if the Tenant wants to move at the end of May, the Tenant must make sure the Landlord receives written notice on or before April 30th.]_
 
@@ -1056,21 +853,9 @@ If the Tenant does not vacate the Rental Unit at the required date defined in th
 
 A Tenant who leaves personal property in the Rental Unit after vacating the Rental Unit and is, therefore, no longer authorized to have access to the Rental Unit, must contact the Housing Department in order to enter the Rental Unit and remove the personal property within thirty (30) days of vacating the Rental Unit. After that time, the Housing Department may dispose of the personal property at its discretion. The Tenant will be responsible for any costs incurred by the Housing Department in disposing of the personal property, and these costs will be a debt owed to and recoverable by Malahat Nation.
 
-# **Section 4.0 – Shelter Allowance Program**
+## Section 4.0 – Shelter Allowance Program
 
-#
-
-#
-
-#
-
-#
-
-#
-
-# Section 4.0 – Shelter Allowance Program
-
-## 4.1 Mortgaged Rental Units
+### 4.1 Mortgaged Rental Units
 
 In order to provide safe, affordable and adequate housing for all Members, Council may continue to offer Nation-Owned Houses on a rental basis where the mortgage(s) for the unit have been paid in full. Nation-Owned Houses that are no longer subject to a mortgage, were constructed and financed through the CMHC Section 95 program or bank financing and are occupied by a Tenant will be referred to as a Mortgaged Rental Unit for the purposes of this Policy.
 
@@ -1085,9 +870,8 @@ This shall apply to new and existing Mortgaged Rental Units subject to the follo
 - Rent and Additional Rent will be used to cover the cost of maintenance, insurance and services, including, but not limited to, services provided by the Malahat Nation, such as water and sewer service, garbage collection, snow removal, etc.; and
 - funds collected as Rent from a Tenant of a Mortgaged Rental Unit will be segregated from Rent collected from Tenants of other Rental Units and will be used exclusively for paying for costs associated with that particular Mortgaged Rental Unit.
 
-##
 
-## 4.2 Rental of Privately-Owned Homes
+### 4.2 Rental of Privately-Owned Homes
 
 A Homeowner of a Privately-Owned Home may rent out a portion of or all of the Privately-Owned Home to a Private Tenant through a private landlord / tenant arrangement. The Homeowner may set the rent and make conditions of occupancy without any prior approval of Council or the Housing Department as long as the arrangement is in compliance with all Malahat Nation bylaws.
 
@@ -1097,89 +881,31 @@ In order to assist landlord Homeowners, a Sample Private Rental Agreement has be
 
 It is the responsibility of the Homeowner to seek independent legal advice over the use of this Sample Private Rental Agreement. Malahat Nation is not liable for any actions/ liabilities as a result of implementing this Sample Private Rental Agreement. Malahat Nation is not responsible for upkeep, repairs, maintenance, and services to the Privately-Owned Home, except in the ordinary course or as otherwise provide in this Policy. All insurance is the sole responsibility of the landlord Homeowner and the Private Tenant.
 
-# **Section 5.0 – Renovation Program**
+## Section 5.0 – Renovation Program
 
-#
+### 5.1 Renovation Program
 
-#
+**Housing would like to provide a renovation program that is fair to all community members.**
 
-#
+**Currently, the bulk of housing renovation income is derived from external agencies. As housing relies heavily on outside resources for renovation funding, we must abide by certain rules (CMHC/AANDC rules).**
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-# Section 5.0 – Renovation Program
-
-
-## 5.1 Renovation Program
-
-## Housing would like to provide a renovation program that is fair to all community members.
-
-## Currently, the bulk of housing renovation income is derived from external agencies. As housing relies heavily on outside resources for renovation funding, we must abide by certain rules (CMHC/AANDC rules).
-
-## Housing would like to make sure that every eligible home will be considered for current and/or future renovations. We will also make sure that renovations are completed to B.C. building code standards.
+**Housing would like to make sure that every eligible home will be considered for current and/or future renovations. We will also make sure that renovations are completed to B.C. building code standards.**
 
 Renovation differ from general maintenance of the home. While renovations consist of generally larger projects that change the structure of a unit with emphasis on changing or upgrading it,
 
 While maintenance means care and or upkeep of a unit that is planned routine or urgent that keeps the structure in proper condition or in working order.
 
-# **Section 6.0 – Appeal Process**
+## Section 6.0 – Appeal Process
 
-# Section 6.0 – Appeal Process
-
-
-**6.1 Facilitated Discussion**
+### 6.1 Facilitated Discussion
 
 Tenants may appeal any decision made in relation to the enforcement of the Housing Policy and/or his/her Rental Agreement. This appeal will begin with a facilitated discussion with the Housing Department. The Tenant may explain why they believe the law was misapplied and the Housing Department will make every effort to resolve their concerns within the confines of Malahat Nation law.
 
-**6.2 Council Review**
+### 6.2 Council Review
 
 In the event that the Tenant and Housing Department are unable to resolve the issue, it may be brought forward to Chief and Council. Chief and Council will review whether the decision was appropriately made following Malahat Nation law. In the event the law is silent on the issue, Chief and Council will convene for debate and a formal vote to resolve the issue in accordance with the standard of best interests of the Malahat Nation community, and the final decision will be put forth in writing within 14 days.
 
-**6.3 Mediation**
+### 6.3 Mediation
 
 If the dispute has not been resolved after Council review, the parties may attempt to resolve the dispute through mediation, in accordance with the following procedure:
 
@@ -1188,7 +914,7 @@ If the dispute has not been resolved after Council review, the parties may attem
 3. The Mediator to the dispute shall set the rules and procedures for the mediation.
 4. In the event that the Mediator concludes that Malahat law is silent on the issue, they will remand it back for Chief and Council review.
 
-**6.4 Arbitration**
+### 6.4 Arbitration
 
 If the parties are unable to resolve the dispute through mediation, or the parties are not able to agree on a mediation process, the parties may attempt to resolve the dispute through arbitration, in accordance with the following procedure:
 
@@ -1198,41 +924,32 @@ If the parties are unable to resolve the dispute through mediation, or the parti
 4. In the event that the Arbitrator concludes that Malahat law is silent on the issue, they will remand it back for Chief and Council review.
 5. Subject to 7.5, the decision of the Arbitrator shall be final and binding on the parties.
 
-**6.5 Final Appeal**
+### 6.5 Final Appeal
 
 Where there is an exception justified by Law, the decision of the Arbitrator may be appealed to a court of competent jurisdiction.
 
-**6.6 Costs**
+### 6.6 Costs
 
 Subject to any ruling by an Arbitrator, all parties to a dispute shall bear their own costs in any dispute resolution process they undertake.
 
 For greater clarity, Malahat Nation is only liable or responsible for the costs of any dispute resolution process under this part where Malahat Nation is a party and Malahat Nation is only responsible for its share of the expenses for the dispute resolution process.
 
-**APPROVAL and AMENDMENTS LOG**
+## Approval and Amendments Log
 
 | **Approval** |
-| --- |
-| Date |
-| Approved by Administrator |
-|
-| Date | Aug 11, 2014 | Approved by Chief and Council |
-|
-|
-| Band Council Resolution No. |
-|
+| --- | --- | --- | --- |
+| Date | | Approved by Administrator | |
+| Date | Aug 11, 2014 | Approved by Chief and Council | |
+| | | Band Council Resolution No. | |
+
 | **Amendment** |
-| Date |
-| Approved by Administrator |
-|
-| Date | Sep 10, 2020 | Approved by Chief and Council |
-|
-|
-| Band Council Resolution No. | 2020/21-010 |
+| --- | --- | --- | --- |
+| Date | | Approved by Administrator | |
+| Date | Sep 10, 2020 | Approved by Chief and Council | |
+| | | Band Council Resolution No. | 2020/21-010 |
+
 | **Amendment** |
-| Date |
-| Approved by Administrator |
-|
-| Date | Jan 28, 2021 | Approved by Chief and Council |
-|
-|
-| Band Council Resolution No. | 2020/21-036 |
+| --- | --- | --- | --- |
+| Date | | Approved by Administrator | |
+| Date | Jan 28, 2021 | Approved by Chief and Council | |
+| | | Band Council Resolution No. | 2020/21-036 |

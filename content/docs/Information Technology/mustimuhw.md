@@ -1,25 +1,29 @@
 ---
 title: "Mustimuhw"
 description: "Mustimuhw"
-lead: "Mustimuhw"
+lead: "Mustimuhw is cEMR software used by Malahat Health. It is hosted on-site and can be accessed through a client locally or over VPN."
 date: 2021-03-15
 lastmod: 2021-03-15
 draft: false
 images: []
 menu:
   docs:
-    parent: "Information Technology"
+    parent: "it"
 weight: 640
 toc: true
 ---
+
+## Enabling VPN Connections
 1.   Open ODBC Data Sources (32 Bit)
 
-![img](mustimuhw/image(10).png)
+![img](/images/mustimuhw/image(10).png)
+
 
 2.   System DSN, Mustimuhw
 
-![img](file:///C:/Users/DAN~1.PAS/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+![img](/images/mustimuhw/image(11).png)
+
 
 3.   Enter the host IP in the host field
 
-![img](file:///C:/Users/DAN~1.PAS/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)
+![img](/images/mustimuhw/image(12).png)

@@ -5,10 +5,28 @@
   url = "/docs/prologue/"
 
 [[docs]]
+  name = "Information Technology"
+  weight = 20
+  identifier = "it"
+  url = "/docs/it/"
+
+[[docs]]
   name = "Help"
   weight = 60
   identifier = "help"
   url = "/docs/help/"
+
+[[laws]]
+  name = "Financial Administrative Law"
+  weight = 10
+  identifier = "fal"
+  url = "/law/fal/"
+
+[[laws]]
+  name = "Policies"
+  weight = 20
+  identifier = "policies"
+  url = "/law/policies/"
 
 [[main]]
   name = "Docs"
@@ -16,9 +34,19 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Law & Policy"
+  url = "/law/"
   weight = 20
+
+[[main]]
+  name = "Careers"
+  url = "/careers/jobs/"
+  weight = 30
+
+#[[main]]
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 20
 
 [[social]]
   name = "Twitter"
