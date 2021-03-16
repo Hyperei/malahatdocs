@@ -2,7 +2,7 @@
 	<div class="row flex-xl-nowrap">
 		<div class="col-lg-5 col-xl-4 docs-sidebar">
 			<nav class="docs-links" aria-label="Main navigation">
-				{{ partial "sidebar/careers-menu.html" . }}
+				{{ partial "sidebar/laws-menu.html" . }}
 			</nav>
 		</div>
 		<main class="docs-content col-lg-11 col-xl-9 mx-xl-auto">
@@ -13,7 +13,7 @@
             <div class="text-center">{{ .Content }}</div>
             <div class="card-list">
               {{ $currentSection := .CurrentSection }}
-              {{ range where .Site.RegularPages.ByTitle "Section" .Section }}
+              {{ range where .Site.RegularPages.ByLastmod "Section" .Section }}
               {{ if in (.Permalink | string) $currentSection.RelPermalink }}
               <div class="card my-3">
                 <div class="card-body">
@@ -25,7 +25,7 @@
             </div>
           </article>
         </div>
-
-    </main>
+      </div>
+		</main>
 	</div>
 {{ end }}

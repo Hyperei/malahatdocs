@@ -1,6 +1,6 @@
 ---
-title: "Introduction"
-description: "The Financial Administrative Law is a set of governance and finance policies that helps Councils and staff make informed decisions. Malahat Nation lives by its FAL and is committed to good governance and financial practices. The policies and procedures set out in the FAL clarify expectations about our administrative responsibilities to Malahat Nation’s employees, members and other related persons;. A finance and Audit Committee has been established to make recommendations to Council on financial and investment decisions to promote positive financial outcomes."
+title: "Financial Administration Law"
+description: "The Financial Administration Law is a set of governance and finance policies that helps Councils and staff make informed decisions. Malahat Nation lives by its FAL and is committed to good governance and financial practices. The policies and procedures set out in the FAL clarify expectations about our administrative responsibilities to Malahat Nation’s employees, members and other related persons;. A finance and Audit Committee has been established to make recommendations to Council on financial and investment decisions to promote positive financial outcomes."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -11,151 +11,98 @@ menu:
 weight: 100
 toc: true
 ---
-WHEREAS:
+## Preamble
 
+**WHEREAS** Pursuant to section 9 of the *First Nations Fiscal Management Act,* the Council of a First Nation may make laws respecting the financial administration of the First Nation;
 
+**AND WHEREAS** The Council of the Malahat Nation considers it to be in the best interests of Malahat Nation to make a law for such purposes;
 
-A.       Pursuant to section 9 of the *First Nations Fiscal Management Act,* the Council of a First Nation may make laws respecting the financial administration of the First Nation; and
+**NOW THEREFORE** the Council of Malahat Nation enacts as follows:
 
 
 
-B.        The Council of the Malahat Nation considers it to be in the best interests of Malahat Nation to make a law for such purposes;
+## Part I - Citation
 
+#### Citation
+**1.** This Law may be cited as the *Malahat Nation Financial Administration Law, 2017.*
 
 
-NOW THEREFORE the Council of Malahat Nation enacts as follows:
 
+## Part II - Interpretation and Application
 
+### Definitions
 
-**PART** I - **Citation**
+**2.** (1) Unless the context indicates the contrary, in this Law: "Act" means the *First Nations Fiscal Management Act;*
 
+**"annual financial statements"** means the annual financial statements of Malahat Nation referred to in Division 7 of Part IV;
 
 
-**Citation**
 
+**"appropriation"** means an allocation of money under a budget to the purposes for which it may be used; "auditor" means the auditor of Malahat Nation appointed under section 76;
 
+**"Board"** means Malahat Nations Financial Management Board established under the Act;
 
-***1.\***        This Law may be cited as the *Malahat Nation Financial Administration Law, 2017.*
+**"Board standards"** means the standards established from time to time by the Board under the Act; "borrowing member" means a first nation that has been accepted as a borrowing member under section 76 (2) of the Act and has not ceased to be a borrowing member under section 77 of the Act; "budget" means the annual budget of Malahat Nation that has been approved by the Council;
 
+**"code"** means a code adopted by Malahat Nation under the *First Nations Oil and Gas and Moneys Management Act* or a land code adopted by Malahat Nation under the *First Nations Land Management Act;*
 
+**"Commission"** means the First Nations Tax Commission established under the Act;
 
-**PART** II - **Interpretation and Application**
+**"Commission standards"** means the standards established from time to time by the Commission under the Act;
 
+**"Council"** means the Council of Malahat Nation;
 
+**"Council chair"** means the person appointed or elected to act as the chair of the Council;
 
-**Definitions**
+**"councillor"** means a member of the Council of Malahat Nation and includes the Chief of Malahat Nation;
 
+**"Finance and Audit Committee"** means the Finance and Audit Committee established under section 12; "financial administration" means the management, supervision, control and direction of all matters relating to the financial affairs of Malahat Nation;
 
+**"financial institution"** means First Nation Finance Authority, a bank, credit union or caisse populaire; "financial competency" means the ability to read and understand financial statements that present accounting issues reasonably expected to be raised by Malahat Nation's financial statements;
 
-***2.\*** (1)  Unless the context indicates the contrary, in this Law: "Act" means the *First Nations Fiscal Management Act;*
+**"financial records"** means all records respecting the financial administration of Malahat Nation, including the minutes of meetings of the Council and the Finance and Audit Committee;
 
-"annual financial statements" means the annual financial statements of Malahat Nation referred to in Division 7 of Part IV;
+**"First Nation"** means Malahat Nation;
 
 
 
-"appropriation" means an allocation of money under a budget to the purposes for which it may be used; "auditor" means the auditor of Malahat Nation appointed under section 76;
+**"First Nation's financial assets"** means all money and other financial assets of Malahat Nation; "First Nation's lands" means all reserves of Malahat Nation within the meaning of the *Indian Act;*
 
-"Board" means Malahat Nations Financial Management Board established under the Act;
+**"First Nation law"** means any law, including any by-law or code, of Malahat Nation made by the Council or the membership ofMalahat Nation;
 
-"Board standards" means the standards established from time to time by the Board under the Act; "borrowing member" means a first nation that has been accepted as a borrowing member under section 76
 
-(2) of the Act and has not ceased to be a borrowing member under section 77 of the Act; "budget" means the annual budget of Malahat Nation that has been approved by the Council;
 
-"code" means a code adopted by Malahat Nation under the *First Nations Oil and Gas and Moneys Management Act* or a land code adopted by Malahat Nation under the *First Nations Land Management Act;*
+**"First Nation's records"** means all records of Malahat Nation respecting its governance, management, operations and financial administration;
 
 
 
-"Commission" means the First Nations Tax Commission established under the Act;
+**"fiscal year"** means the fiscal year of Malahat Nation set out in section 24;
 
 
 
-"Commission standards" means the standards established from time to time by the Commission under the Act;
+**"GAAP"** means generally accepted accounting principles of the Chartered Professional Accountants of Canada, as revised or replaced from time to time;
 
 
 
-"Council" means the Council of Malahat Nation;
+**"local revenue account"** means an account with a financial institution into which local revenues are deposited separately from other moneys of Malahat nation;
 
 
 
-"Council chair" means the person appointed or elected to act as the chair of the Council;
+**"local revenue law"** means a local revenue law made by Malahat Nation under the Act; "local revenues" means money raised under a local revenue law;
 
+**"Malahat Nation"** means Malahat First Nation which is named in the Schedule to the Act. "multi-year financial plan" means the plan referred to in section 25;
 
+**"officer"** means the Chief Executive Officer, Director of Finance , tax administrator and any other employee of Malahat Nation designated by the Council as an officer;
 
-"councillor" means a member of the Council of Malahat Nation and includes the Chief of Malahat Nation;
 
-"Finance and Audit Committee" means the Finance and Audit Committee established under section 12; "financial administration" means the management, supervision, control and direction of all matters
 
-relating to the financial affairs of Malahat Nation;
+**"other revenues"** means other revenues as defined in section 3 of the *Financing Secured by Other Revenues Regulations* made under the Act,·
 
-"financial institution" means First Nation Finance Authority, a bank, credit union or caisse populaire; "financial competency" means the ability to read and understand financial statements that present
+**"record"** means anything on which information is recorded or stored by any means whether graphic, electronic, mechanical or otherwise;
 
-accounting issues reasonably expected to be raised by Malahat Nation's financial statements;
 
 
-
-"financial records" means all records respecting the financial administration of Malahat Nation, including the minutes of meetings of the Council and the Finance and Audit Committee;
-
-
-
-"First Nation" means Malahat Nation;
-
-
-
-"First Nation's financial assets" means all money and other financial assets of Malahat Nation; "First Nation's lands" means all reserves of Malahat Nation within the meaning of the *Indian Act;*
-
-"First Nation law" means any law, including any by-law or code, of Malahat Nation made by the Council or the membership ofMalahat Nation;
-
-
-
-"First Nation's records" means all records of Malahat Nation respecting its governance, management, operations and financial administration;
-
-
-
-"fiscal year" means the fiscal year of Malahat Nation set out in section 24;
-
-
-
-"GAAP" means generally accepted accounting principles of the Chartered Professional Accountants of Canada, as revised or replaced from time to time;
-
-
-
-"local revenue account" means an account with a financial institution into which local revenues are deposited separately from other moneys of Malahat nation;
-
-
-
-"local revenue law" means a local revenue law made by Malahat Nation under the Act; "local revenues" means money raised under a local revenue law;
-
-"Malahat Nation" means Malahat First Nation which is named in the Schedule to the Act. "multi-year financial plan" means the plan referred to in section 25;
-
-"officer" means the Chief Executive Officer, Director of Finance , tax administrator and any other employee of Malahat Nation designated by the Council as an officer;
-
-
-
-"other revenues" means other revenues as defined in section 3 of the *Financing Secured by Other Revenues Regulations* made under the Act,·
-
-
-
-
-
-
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:/Users/DAN~1.PAS/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png) |
-
-
-
-
-
-### Malahat Nation I Financial Administration Law 2017                               Page 2
-
-
-
-"record" means anything on which information is recorded or stored by any means whether graphic, electronic, mechanical or otherwise;
-
-
-
-"related body" means
+**"related body"** means
 
 
 
@@ -175,13 +122,13 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-"DOF" means the person appointed Director of Finance under section 19; "CEO" means the person appointed Chief Executive Officer under section 18; "special purpose report" means a report described in section 75;
+**"DOF"** means the person appointed Director of Finance under section 19; "CEO" means the person appointed Chief Executive Officer under section 18; "special purpose report" means a report described in section 75;
 
-"standards" means the standards established from time to time under the Act; and
+**"standards"** means the standards established from time to time under the Act; and
 
 
 
-"tax administrator" means the person appointed tax administrator under section 20 or Malahat Nation's local revenue laws.
+**"tax administrator"** means the person appointed tax administrator under section 20 or Malahat Nation's local revenue laws.
 
 
 
@@ -197,11 +144,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Interpretation**
+### Interpretation
 
 
 
-3.(1)   In this Law, the following rules of interpretation apply:
+**3.** (1)   In this Law, the following rules of interpretation apply:
 
 
 
@@ -237,11 +184,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Posting of Public Notice**
+### Posting of Public Notice
 
 
 
-4.(1)  If a public notice must be posted under this Law, the public notice is properly posted if a written notice is placed in a conspicuous and accessible place for public viewing in the principal administrative offices of Malahat Nation.
+**4.**(1)  If a public notice must be posted under this Law, the public notice is properly posted if a written notice is placed in a conspicuous and accessible place for public viewing in the principal administrative offices of Malahat Nation.
 
 
 
@@ -249,7 +196,7 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Calculation of Time**
+### Calculation of Time
 
 
 
@@ -277,11 +224,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Conflict of Laws**
+### Conflict of Laws
 
 
 
-**6.(1)** If there is a conflict between this Law and another Malahat Nation law, other than a code or a local revenue law, this Law prevails.
+**6.**(1) If there is a conflict between this Law and another Malahat Nation law, other than a code or a local revenue law, this Law prevails.
 
 
 
@@ -293,27 +240,27 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Scope and Application**
+### Scope and Application
 
 
 
-\7.     This Law applies to the financial administration of Malahat First Nation.
+**7.**     This Law applies to the financial administration of Malahat First Nation.
 
 
 
-**PART** Ill - **Administration**
+## Part III - Administration
 
 
 
-***DIVISION 1\*** - ***Council\***
+### Division 1 - Council
 
 
 
-**Responsibilities of Council**
+#### Responsibilities of Council
 
 
 
-**8.(1)** The Council is responsible for all matters relating to the financial administration of Malahat Nation whether or not they have been assigned or delegated to an officer, employee, committee, contractor or agent by or under this Law.
+**8.**(1) The Council is responsible for all matters relating to the financial administration of Malahat Nation whether or not they have been assigned or delegated to an officer, employee, committee, contractor or agent by or under this Law.
 
 
 
@@ -337,11 +284,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Council Policies, Procedures and Directions**
+#### Council Policies, Procedures and Directions
 
 
 
-9.(1) Subject to subsection (2), the Council may establish policies and procedures and give directions respecting any matter relating to the financial administration of Malahat Nation.
+**9.**(1) Subject to subsection (2), the Council may establish policies and procedures and give directions respecting any matter relating to the financial administration of Malahat Nation.
 
 
 
@@ -361,23 +308,23 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Reporting** of **Remuneration and Expenses**
+#### Reporting of Remuneration and Expenses
 
 
 
-10.(1) In this section:
+**10.**(1) In this section:
 
 
 
-"entity" means a corporation or a partnership, a joint venture or any other unincorporated association or organization, the financial transactions of which are consolidated in the annual financial statements of Malahat Nation in accordance with GAAP;
+**"entity"** means a corporation or a partnership, a joint venture or any other unincorporated association or organization, the financial transactions of which are consolidated in the annual financial statements of Malahat Nation in accordance with GAAP;
 
 
 
-"expenses" includes the costs of transportation, accommodation, meals, hospitality and incidental expenses; and
+**"expenses"** includes the costs of transportation, accommodation, meals, hospitality and incidental expenses; and
 
 
 
-"remuneration" means any salaries, wages, commissions, bonuses, fees, honoraria and dividends and any other monetary and non-monetary benefits.
+**"remuneration"** means any salaries, wages, commissions, bonuses, fees, honoraria and dividends and any other monetary and non-monetary benefits.
 
 
 
@@ -385,11 +332,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-***DIVISION 2\*** - ***Finance and Audit Committee\***
+### Division 2 - Finance and Audit Committee
 
 
 
-**Interpretation**
+#### Interpretation
 
 
 
@@ -397,11 +344,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Committee Established**
+#### Committee Established
 
 
 
-**12.(1)** The Committee of Malahat Nation is established to provide Council with advice and recommendations in order to support Council's decision-making process respecting the financial administration of Malahat Nation.
+**12.**(1) The Committee of Malahat Nation is established to provide Council with advice and recommendations in order to support Council's decision-making process respecting the financial administration of Malahat Nation.
 
 
 
@@ -461,11 +408,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Chair and Vice-chair**
+#### Chair and Vice-chair
 
 
 
-**13.** (1) The Council must appoint a chair and a vice- chair of the Committee, one of whom must be a councillor.
+**13.**(1) The Council must appoint a chair and a vice- chair of the Committee, one of whom must be a councillor.
 
 
 
@@ -485,11 +432,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Committee Procedures**
+#### Committee Procedures
 
 
 
-**14.(1)** The quorum of the Committee is fifty percent (50%) of the total number of Committee members, including at least one (1) councillor.
+**14.**(1) The quorum of the Committee is fifty percent (50%) of the total number of Committee members, including at least one (1) councillor.
 
 
 
@@ -541,11 +488,11 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Financial** **Planning Responsibilities**
+#### Financial Planning Responsibilities
 
 
 
-**15.(1)** The Committee must carry out the following activities in respect of the financial administration of Malahat Nation:
+**15.**(1) The Committee must carry out the following activities in respect of the financial administration of Malahat Nation:
 
 
 
@@ -585,7 +532,7 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Audit responsibilities**
+#### Audit responsibilities
 
 
 
@@ -625,7 +572,7 @@ accounting issues reasonably expected to be raised by Malahat Nation's financial
 
 
 
-**Council Assigned Responsibilities**
+#### Council Assigned Responsibilities
 
 
 
@@ -681,15 +628,15 @@ U)  to review and report to the Council on the adequacy of financial administrat
 
 
 
-***DIVISION 3\*** - ***Officers and Employees\***
+### Division 3 - Officers and Employees
 
 
 
-**Chief Executive Officer**
+#### Chief Executive Officer
 
 
 
-**18.(1)** The Council must appoint a person as CEO of Malahat Nation and may set the terms and conditions of that appointment.
+**18.**(1) The Council must appoint a person as CEO of Malahat Nation and may set the terms and conditions of that appointment.
 
 
 
@@ -753,11 +700,11 @@ U)  to review and report to the Council on the adequacy of financial administrat
 
 
 
-**Director of Finance**
+#### Director of Finance
 
 
 
-**19.(** I) The Council must appoint a person as Director Of Finance of Malahat Nation and may set the terms and conditions of that appointment.
+**19.**(1) The Council must appoint a person as Director Of Finance of Malahat Nation and may set the terms and conditions of that appointment.
 
 
 
@@ -777,11 +724,10 @@ U)  to review and report to the Council on the adequacy of financial administrat
 
 
 
-(cl) to prepare the monthly financial information required in section 71, the quarterly financial statements required in section 72 and the draft annual financial statements required in sections 73 and 74;
+(d) to prepare the monthly financial information required in section 71, the quarterly financial statements required in section 72 and the draft annual financial statements required in sections 73 and 74;
 
 
-
-· (e) to prepare the financial components of reports to the Council and of any short, medium and long­ term plans, projections and priorities referred to in subsection 15(1);
+(e) to prepare the financial components of reports to the Council and of any short, medium and long term plans, projections and priorities referred to in subsection 15(1);
 
 
 
@@ -833,11 +779,11 @@ does not relieve the DOF of the responsibility to ensure that these duties or fu
 
 
 
-**Tax Administrator**
+#### Tax Administrator
 
 
 
-**20.(1)** If Malahat Nation is collecting local revenues, the Council must appoint a person as tax administrator of Malahat Nation and may set the terms and conditions of that appointment.
+**20.**(1) If Malahat Nation is collecting local revenues, the Council must appoint a person as tax administrator of Malahat Nation and may set the terms and conditions of that appointment.
 
 
 
@@ -877,11 +823,11 @@ does not relieve the DOF of the responsibility to ensure that these duties or fu
 
 
 
-**Organizational Structure**
+#### Organizational Structure
 
 
 
-**21.(1)** The Council must establish and maintain a current organization chart for the governance, management and administrative systems of Malahat Nation.
+**21.**(1) The Council must establish and maintain a current organization chart for the governance, management and administrative systems of Malahat Nation.
 
 
 
@@ -902,47 +848,6 @@ does not relieve the DOF of the responsibility to ensure that these duties or fu
 
 
 (d)   all governance, management and administrative positions at each level of the organization of the systems described in paragraph (a), including
-
-
-
-
-
-
-
-
-
-
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:/Users/DAN~1.PAS/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) |
-
-
-
-
-
-### Malahat Nation I Financial Administration Law 2017                              Page 12
-
-
-
-
-
-|      |                                                              |
-| ---- | ------------------------------------------------------------ |
-|      | ![img](file:///C:/Users/DAN~1.PAS/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png) |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 (i)     the membership on the Council, Finance and Audit Committee and all other committees of the Council and Malahat Nation,
@@ -969,15 +874,14 @@ does not relieve the DOF of the responsibility to ensure that these duties or fu
 
 
 
-***DIVISION 4\*** - ***Conduct Expectations\***
+### Division 4 - Conduct Expectations
+
+
+#### Conduct of Councillors
 
 
 
-**Conduct of Councillors**
-
-
-
-**22.(1)** When exercising a power, duty or responsibility relating to the financial administration of Malahat Nation, a councillor must
+**22.**(1) When exercising a power, duty or responsibility relating to the financial administration of Malahat Nation, a councillor must
 
 
 
@@ -1001,11 +905,11 @@ does not relieve the DOF of the responsibility to ensure that these duties or fu
 
 
 
-**Conduct of Officers, Employees, Contractors, etc.**
+#### Conduct of Officers, Employees, Contractors, etc.
 
 
 
-**23.(1)** This section applies to
+**23.**(1) This section applies to
 
 
 
@@ -1077,39 +981,21 @@ does not relieve the DOF of the responsibility to ensure that these duties or fu
 
 
 
-**PART IV** - **Financial Management**
+## Part IV - Financial Management
 
+### Division 1 - Financial Plans and Annual Budgets
 
-
-***DIVISION 1\*** - ***Financial Plans and Annual Budgets\***
-
-
-
-**Fiscal Year**
-
-
+#### Fiscal Year
 
 **24.**       The fiscal year of Malahat Nation is April 1 to March 31 of the following year.
 
+#### Multi-year Financial Plan
 
-
-**Multi-year Financial Plan**
-
-
-
-**25.**       No later than March 31 of each year, the Council must approve a multi-year financial plan
-
-that
-
-
+**25.**       No later than March 31 of each year, the Council must approve a multi-year financial plan that
 
 (a)   has a planning period of five (5) years comprised of the current fiscal year and the four (4) succeeding fiscal years;
 
-
-
 (b)   is based on the projections of revenues, expenditures and transfers between accounts;
-
-
 
 (c)   sets out projected revenues, segregated by significant category;
 
@@ -1131,11 +1017,11 @@ that
 
 
 
-**Content of Annual Budget**
+#### Content of Annual Budget
 
 
 
-**26.(1)** The annual budget must encompass all the operations for which Malahat Nation 1s responsible and must identify
+**26.**(1) The annual budget must encompass all the operations for which Malahat Nation 1s responsible and must identify
 
 
 
@@ -1159,11 +1045,11 @@ that
 
 
 
-**Budget and Planning Process Schedule**
+#### Budget and Planning Process Schedule
 
 
 
-**27.(1)** On or before January 31 of each year, the Director of Finance must prepare and submit to the Finance and Audit Committee for review a draft annual budget and a draft multi-year financial plan for the next fiscal year.
+**27.**(1) On or before January 31 of each year, the Director of Finance must prepare and submit to the Finance and Audit Committee for review a draft annual budget and a draft multi-year financial plan for the next fiscal year.
 
 
 
@@ -1195,7 +1081,7 @@ that
 
 
 
-**Additional Requirements for Budget Deficits**
+#### Additional Requirements for Budget Deficits
 
 
 
@@ -1215,11 +1101,11 @@ that
 
 
 
-**Amendments to Annual Budgets**
+#### Amendments to Annual Budgets
 
 
 
-**29.(1)** The annual budget of Malahat Nation must not be changed without the approval of the Council.
+**29.**(1) The annual budget of Malahat Nation must not be changed without the approval of the Council.
 
 
 
@@ -1227,7 +1113,7 @@ that
 
 
 
-**Local Revenues Budget Requirements**
+#### Local Revenues Budget Requirements
 
 
 
@@ -1235,11 +1121,11 @@ that
 
 
 
-**Policy for First Nation Information or Involvement**
+#### Policy for First Nation Information or Involvement
 
 
 
-**31.(1)** The Council must establish policies or procedures or give directions respecting the means by which members of Malahat Nation must be informed about or involved in consideration of
+**31.**(1) The Council must establish policies or procedures or give directions respecting the means by which members of Malahat Nation must be informed about or involved in consideration of
 
 
 
@@ -1275,7 +1161,7 @@ that
 
 
 
-***DIVISION 2\*** - ***Financial Institution Accounts\***
+### Division 2 - Financial Institution Accounts
 
 
 
@@ -1347,7 +1233,7 @@ that
 
 
 
-***DIVISION 3\*** - ***Expenditures\***
+### Division 3 - Expenditures
 
 
 
@@ -1436,19 +1322,6 @@ that
 **39.(1)** Money appropriated in a budget for a fiscal year must not be expended after the encl of the fiscal year except to discharge a liability incurred in that fiscal year.
 
 
-
-![img](file:///C:/Users/DAN~1.PAS/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
-
-
-
-
-
-
-
-
-
-
-
 (2) If the liabilities for an appropriation under subsection (1) exceed the unexpended balance of the appropriation at the end of the fiscal year, the excess must be
 
 
@@ -1535,7 +1408,7 @@ IS
 
 
 
-***DIVISION 4\*** - ***General Matters\***
+### Division 4 - General Matters
 
 
 
