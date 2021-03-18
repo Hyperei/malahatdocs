@@ -91,7 +91,7 @@ Nation’s Financial Administration Law and provide backup support for the Finan
 - Compensation dependent upon experience, $ 42,000-48,000 per year
 - Benefits and Pension packages after 3 months (shared costs)
 
-### Please submit the following:
+## Please Submit the Following
 - **Cover letter**
 - **Resume**
 - **Credentials**
